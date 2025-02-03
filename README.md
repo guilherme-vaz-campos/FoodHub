@@ -1,6 +1,6 @@
 # FoodHub
 
-Declaração do problema - FoodHub (Great Learning Course)
+Declaração do problema - FoodHub
 
 Contexto:
 

@@ -38,6 +38,10 @@ delivery_time: Tempo (em minutos) tomado pelo entregador para entregar o pedido.
 
 # Analise dos dados
 
-Anexamos neste repositorio o arquivo HTML contendo todos os fundamentos da ciencias de dados, ao fazer a analise dos dados que estão no arquivo 'foodhub_order.csv'.
-Nesta analise verificamos a estrutura dos dados, a estatistica dos dados e fazemos a Análise Exploratória de Dados (EDA), onde exploramos todas as variáveis ​​e fornecemos observações sobre suas distribuições. (Com histogramas, boxplots, countplots ​​para exploração univariada e multivariada). A linguagem utilizada neste projeto foi Python.
+A linguagem utilizada neste projeto foi Python.
+
+Bibliotecas utilizadas: numpy, pandas, matplotlib.pyplot e seaborn
+
+Anexamos neste repositorio o arquivo HTML com os principais fundamentos da ciencias de dados, ao fazer a analise dos dados que estão no arquivo 'foodhub_order.csv'.
+Nesta analise verificamos a estrutura dos dados, a estatistica dos dados e fazemos a Análise Exploratória de Dados (EDA), onde exploramos todas as variáveis ​​e fornecemos observações sobre suas distribuições. (Com histogramas, boxplots, countplots ​​para exploração univariada e multivariada).
 No final do arquivo HTML colocamos algumas conclusões e recomendações sobre esta analise.
